@@ -1,3 +1,6 @@
 # はじめてのgit
 
-hello, Git!
+Hello, Git!
+
+修正を加えました。
+
